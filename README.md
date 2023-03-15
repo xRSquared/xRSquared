@@ -1,11 +1,28 @@
-# About Me
+# Hello 👋, I'm [Ricardo](https://ricardoruiz.site)
 
-## Hello! 👋
+![visitor count](https://page-views.glitch.me/badge?page_id=xRSquared.xRSquared)
+![GitHub followers](https://img.shields.io/github/followers/xRSquared?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/xRSquared?affiliations=OWNER&style=social)
+![Website](https://img.shields.io/website?down_message=offline&url=https%3A%2F%2Fwww.ricardoruiz.site)
+[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo--ruiz/)
 
-I'm Ricardo, an applied Data Scientist with a full-stack developer's toolkit,
+I'm an Applied Data Scientist with a Full-Stack Developer's toolkit,
 based in Los Angeles.
 
-I'm currently looking for new opportunities in Data Science or Software Engineering.
+## ⚡️ A Few Quick Facts
+
+- 🤓 I love math, data science, and programming
+
+- 🧠 I’m addicted to expanding my skillset every day
+
+  - Currently learning about **MLOps**, **distributed systems**,
+    and **AI**(Large Language Models).
+
+- 📝 I ~~regularly~~ write article on [my blog](https://ricardoruiz.site/blog).
+
+- 📕 Check out my [CV](https://ricardoruiz.site/cv/CV_Ricardo_Ruiz.pdf)
+
+> I'm currently looking for new opportunities in Data Science or Software Engineering.
 
 You can reach me here or at my [email](mailto:ricardo.w.ruiz@gmail.com).
 
@@ -25,12 +42,22 @@ These are some long-horizon personal projects that I am working on:
 
 - **Knowledge Box**: A personal "search engine"
 
-  - uses sentence embeddings, and a vector database to allow me to create a
-    vector database to search with natural language.
+  - uses sentence embeddings, and a vector database to allow me to search
+    my personal "knowledge base" with natural language.
 
 - **Adainference**: Adaptive experimentation made easy
 
-## Things I'm learning
+## 🧠 Things I'm learning
 
 - Rust
 - Operationalizing [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model)
+
+## 🤝 I’m looking to collaborate on…
+
+- Creating functional products for end-users using state of the art AI models.
+
+## 📈 Stats
+
+[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xRSquared&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+- Add snake game here from "https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"
