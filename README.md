@@ -61,7 +61,7 @@ These are some long-horizon personal projects that I am working on:
 [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xRSquared&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./snake/github-snake.svg" />
-  <img alt="github-snake" src="./snake/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xRSquared/xRSquared/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xRSquared/xRSquared/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
