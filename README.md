@@ -58,7 +58,9 @@ These are some long-horizon personal projects that I am working on:
 
 ## 📈 Stats
 
+<div style="display: flex; flex-direction: row;">
 [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xRSquared&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xRSquared/xRSquared/blob/output/github-snake-dark.svg" />
