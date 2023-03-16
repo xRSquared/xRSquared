@@ -60,4 +60,8 @@ These are some long-horizon personal projects that I am working on:
 
 [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=xRSquared&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- Add snake game here from "https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
