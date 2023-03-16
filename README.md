@@ -3,7 +3,7 @@
 ![visitor count](https://page-views.glitch.me/badge?page_id=xRSquared.xRSquared)
 ![GitHub followers](https://img.shields.io/github/followers/xRSquared?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/xRSquared?affiliations=OWNER&style=social)
-![Website](https://img.shields.io/website?down_message=offline&url=https%3A%2F%2Fwww.ricardoruiz.site)
+[![Website](https://img.shields.io/website?down_message=offline&url=https%3A%2F%2Fwww.ricardoruiz.site)](https://www.ricardoruiz.site)
 [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo--ruiz/)
 
 I'm an Applied Data Scientist with a Full-Stack Developer's toolkit,
@@ -24,7 +24,7 @@ based in Los Angeles.
 
 > I'm currently looking for new opportunities in Data Science or Software Engineering.
 
-You can reach me here or at my [email](mailto:ricardo.w.ruiz@gmail.com).
+You can reach me [here](https://ricardoruiz.site/contact).
 
 ## 👷 Things I'm doing
 
