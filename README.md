@@ -58,7 +58,7 @@ These are some long-horizon personal projects that I am working on:
 
 ## 📈 Stats
 
-<picture style='display:flex; flex-direction:row; justify-content: center;'>
+<picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=xRSquared&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
@@ -69,6 +69,8 @@ These are some long-horizon personal projects that I am working on:
     />
     <img src="https://github-readme-stats.vercel.app/api?username=xRSquared&show_icons=true" />
 </picture>
+
+______________________________________________________________________
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xRSquared/xRSquared/blob/output/github-snake-dark.svg" />
