@@ -18,7 +18,7 @@ based in Los Angeles.
   - Currently learning about **MLOps**, **distributed systems**,
     and **AI**(Large Language Models).
 
-- 📝 I ~~regularly~~ write article on [my blog](https://ricardoruiz.site/blog).
+- 📝 I ~~regularly~~ write articles on [my blog](https://ricardoruiz.site/blog).
 
 - 📕 Check out my [CV](https://ricardoruiz.site/cv/CV_Ricardo_Ruiz.pdf)
 
@@ -60,7 +60,7 @@ These are some long-horizon personal projects that I am working on:
 
 <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=xRSquared&count_private=true&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=xRSquared&count_private=true&show_icons=true&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
