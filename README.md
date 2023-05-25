@@ -11,11 +11,11 @@ based in Los Angeles.
 
 ## ⚡️ A Few Quick Facts
 
-- 🤓 I love math, data science, and programming
+- 🤓 I love Math, Data Science, and Programming
 
 - 🧠 I’m addicted to expanding my skillset every day
 
-  - Currently learning about **MLOps**, **distributed systems**,
+  - Currently learning about **MLOps**, **Distributed Systems**,
     and **AI**(Large Language Models).
 
 - 📝 I ~~regularly~~ write articles on [my blog](https://ricardoruiz.site/blog).
@@ -26,13 +26,13 @@ based in Los Angeles.
 
 You can reach me [here](https://ricardoruiz.site/contact).
 
-## 👷 Things I'm doing
+## 👷 Things I'm Doing
 
-I recently discovered a hole in the regex ecosystem of python and rust.
+I recently discovered a hole in the regex ecosystem of Python and Rust.
 So I'm working on making writing readable regular expressions in both languages easier.
 
 - **natural-regex**: Pythonic Natural-language regular expressions
-- **natural-regex-rs**: Natural-language regular expressions in rust
+- **natural-regex-rs**: Natural-language regular expressions in Rust
 
 > These are my first of hopefully many open-source contributions.
 
@@ -40,19 +40,19 @@ So I'm working on making writing readable regular expressions in both languages 
 
 These are some long-horizon personal projects that I am working on:
 
-- **Knowledge Box**: A personal "search engine"
+- **Knowledge Box**: A personal "search engine."
 
-  - uses sentence embeddings, and a vector database to allow me to search
+  - It uses sentence embeddings and a vector database to search
     my personal "knowledge base" with natural language.
 
 - **Adainference**: Adaptive experimentation made easy
 
-## 🧠 Things I'm learning
+## 🧠 Things I'm Learning
 
 - Rust
 - Operationalizing [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model)
 
-## 🤝 I’m looking to collaborate on…
+## 🤝 I’m Looking To Collaborate On…
 
 - Creating functional products for end-users using state of the art AI models.
 
