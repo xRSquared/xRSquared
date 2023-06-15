@@ -1,4 +1,4 @@
-# Hello 👋, I'm [Ricardo](https://ricardoruiz.site)
+# Hello 👋, I'm [Ricardo](https://ricardoruiz.site/?source=github_readme)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xRSquared&color=blue&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/xRSquared?style=social)
