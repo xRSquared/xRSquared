@@ -61,6 +61,30 @@ These are some long-horizon personal projects that I am working on:
 ______________________________________________________________________
 
 <picture>
+    <source 
+      srcset="https://github-readme-stats-xrsquared.vercel.app/api?username=xRSquared&count_private=true&show_icons=true&include_private=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-xrsquared.vercel.app/api?username=xRSquared&count_private=true&include_private=true&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-xrsquared.vercel.app/api?username=xRSquared&count_private=true&include_private=true&show_icons=true" />
+</picture>
+
+<picture>
+    <source 
+      srcset="https://github-readme-stats-xrsquared.vercel.app/api/top-langs/?username=xRSquared&hide=jupyter+notebook&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats-xrsquared.vercel.app/api/top-langs/?username=xRSquared&hide=jupyter+notebook&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats-xrsquared.vercel.app/api/top-langs/?username=xRSquared&hide=jupyter+notebook&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xRSquared/xRSquared/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/xRSquared/xRSquared/blob/output/github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
