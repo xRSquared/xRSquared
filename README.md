@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=xRSquared&color=blue&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/xRSquared?style=social)
 ![GitHub User's Stars](https://img.shields.io/github/stars/xRSquared?affiliations=OWNER&style=social)
-[![Website](https://img.shields.io/website?down_message=offline&url=https%3A%2F%2Fwww.ricardoruiz.site)](https://www.ricardoruiz.site)
+[![Website](https://img.shields.io/website?down_message=offline&url=https%3A%2F%2Fwww.ricardoruiz.site)](https://ricardoruiz.site/?source=github_readme)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo--ruiz/)
 
 I'm an Applied Data Scientist with a Full-Stack Developer's toolkit,
