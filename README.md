@@ -18,13 +18,13 @@ based in Los Angeles.
   - Currently learning about **MLOps**, **Distributed Systems**,
     and **AI**(Large Language Models).
 
-- 📝 I ~~regularly~~ write articles on [my blog](https://ricardoruiz.site/blog).
+- 📝 I ~~regularly~~ write articles on [my blog](https://ricardoruiz.site/blog/?source=github_readme).
 
 - 📕 Check out my [CV](https://ricardoruiz.site/cv/CV_Ricardo_Ruiz.pdf)
 
 > I'm currently looking for new opportunities in Data Science or Software Engineering.
 
-You can reach me [here](https://ricardoruiz.site/contact).
+You can reach me [here](https://ricardoruiz.site/contact/?source=github_readme).
 
 ## 👷 Things I'm Doing
 
