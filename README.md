@@ -1,9 +1,9 @@
-# Hello 👋, I'm [Ricardo](https://ricardoruiz.site/?source=github_readme)
+# Hello 👋, I'm [Ricardo](https://ricardoruiz.dev/?source=github_readme)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xRSquared&color=blue&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/xRSquared?style=social)
 ![GitHub User's Stars](https://img.shields.io/github/stars/xRSquared?affiliations=OWNER&style=social)
-[![Website](https://img.shields.io/website?down_message=offline&url=https%3A%2F%2Fwww.ricardoruiz.site)](https://ricardoruiz.site/?source=github_readme)
+[![Website](https://img.shields.io/website?down_message=offline&url=https%3A%2F%2Fwww.ricardoruiz.dev)](https://ricardoruiz.dev/?source=github_readme)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo--ruiz/)
 
 I'm an Applied Data Scientist with a Full-Stack Developer's toolkit,
@@ -18,13 +18,13 @@ based in Los Angeles.
   - Currently learning about **MLOps**, **Distributed Systems**,
     and **AI**(Large Language Models).
 
-- 📝 I ~~regularly~~ write articles on [my blog](https://ricardoruiz.site/blog/?source=github_readme).
+- 📝 I ~~regularly~~ write articles on [my blog](https://ricardoruiz.dev/blog/?source=github_readme).
 
-- 📕 Check out my [CV](https://ricardoruiz.site/cv/CV_Ricardo_Ruiz.pdf)
+- 📕 Check out my [CV](https://ricardoruiz.dev/cv/CV_Ricardo_Ruiz.pdf)
 
 > I'm currently looking for new opportunities in Data Science or Software Engineering.
 
-You can reach me [here](https://ricardoruiz.site/contact/?source=github_readme).
+You can reach me [here](https://ricardoruiz.dev/contact/?source=github_readme).
 
 ## 👷 Things I'm Doing
 
