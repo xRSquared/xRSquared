@@ -7,54 +7,63 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic-flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo--ruiz/)
 
 I'm an Applied Data Scientist with a Full-Stack Developer's toolkit,
-based in Los Angeles.
+combining the best of both worlds.
 
-## ⚡️ A Few Quick Facts
+## 🚀 About Me
 
-- 🤓 I love Math, Data Science, and Programming
+- 🤓 Background in Mathematics, Economics, and Full-Stack Data Science
+
+- 🛠 Specializing in front-end and full-stack development with a keen interest
+  in building user-friendly applications
 
 - 🧠 I’m addicted to expanding my skillset every day
 
-  - Currently learning about **MLOps**, **Distributed Systems**,
-    and **AI**(Large Language Models).
+  - Currently learning about **Distributed Systems**,
+    and **Advanced Front-End Development**.
 
 - 📝 I ~~regularly~~ write articles on [my blog](https://ricardoruiz.dev/blog/?source=github_readme).
 
 - 📕 Check out my [CV](https://ricardoruiz.dev/cv/CV_Ricardo_Ruiz.pdf)
 
-> I'm currently looking for new opportunities in Data Science or Software Engineering.
-
-You can reach me [here](https://ricardoruiz.dev/contact/?source=github_readme).
-
 ## 👷 Things I'm Doing
 
-I recently discovered a hole in the regex ecosystem of Python and Rust.
-So I'm working on making writing readable regular expressions in both languages easier.
+<!-- I recently discovered a hole in the regex ecosystem of Python and Rust. -->
 
-- **natural-regex**: Pythonic Natural-language regular expressions
-- **natural-regex-rs**: Natural-language regular expressions in Rust
+<!-- So I'm working on making writing readable regular expressions in both languages easier. -->
 
-> These are my first of hopefully many open-source contributions.
+<!---->
 
-**Additional Personal Projects**:
+<!-- - **natural-regex**: Pythonic Natural-language regular expressions -->
+
+<!-- - **natural-regex-rs**: Natural-language regular expressions in Rust -->
+
+<!---->
+
+<!-- > These are my first of hopefully many open-source contributions. -->
+
+<!---->
+
+**Longterm Personal Projects**:
 
 These are some long-horizon personal projects that I am working on:
 
 - **Knowledge Box**: A personal "search engine."
 
-  - It uses sentence embeddings and a vector database to search
+  - using sentence embeddings and a vector database to search
     my personal "knowledge base" with natural language.
 
 - **Adainference**: Adaptive experimentation made easy
 
-## 🧠 Things I'm Learning
-
-- Rust
-- Operationalizing [Large Language Models](https://en.wikipedia.org/wiki/Large_language_model)
+<!-- ## 🧠 Things I'm Learning -->
 
 ## 🤝 I’m Looking To Collaborate On…
 
-- Creating functional products for end-users using state of the art AI models.
+- Transforming innovative ideas into functional and impactful web applications
+- Solving real-world problems with data-driven insights
+
+## 📫 Get In Touch
+
+You can reach me [here](https://ricardoruiz.dev/contact/?source=github_readme).
 
 ## 📈 Stats
 
